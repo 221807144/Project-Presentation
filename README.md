@@ -2,7 +2,7 @@
 # 🌐 Digital Portfolio – PRP370-1-2S
 **Student Name:** Sikhulume Masibuve  
 **Student Number:** 221801744  
-**Course:** Diploma in ICT  
+**Course:** ICT in Application Development  
 **Module:** PRP370-1-2S – Project Presentation 3  
 **Submission Date:** 23 May 2025  
 
