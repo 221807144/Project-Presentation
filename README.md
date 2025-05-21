@@ -68,6 +68,7 @@
 ## 📁 5. CV Submission
 
 ### ✅ Evidence
+[My CV (PDF)](https://github.com/221807144/Project-Presentation/blob/main/Masibuve%20Sikhulume_Resume.pdf)
 
 
 ### 🧠 STAR Reflection
